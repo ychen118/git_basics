@@ -2,3 +2,4 @@ a second file
 more changes
 more changes
 even more changes
+let's create a conflict
